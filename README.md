@@ -3,7 +3,7 @@
 
 The Portable Document Format, or PDF, is a file format that can be used to present and exchange documents reliably across operating systems. While the PDF was originally invented by Adobe, it is now an open standard that is maintained by the International Organization for Standardization (ISO).
 
-#AGENDA
+# AGENDA
 1. extract text from a PDF file.
 2. Rotate pages of a PDF file.
 3. Extract document information from a PDF file.
@@ -29,7 +29,7 @@ There are many libraries available freely for working with PDFs:
 
 7. PyPDF2: It is a python library used for performing major tasks on PDF files such as extracting the document-specific information, merging the PDF files, splitting the pages of a PDF file, adding watermarks to a file, encrypting and decrypting the PDF files, etc. We will use the PyPDF2 library in this tutorial. It is a pure python library so it can run on any platform without any platform-related dependencies on any external libraries.
 
-#Getting Started with PyPDF2 Library
+# Getting Started with PyPDF2 Library
 ## Installation
 To install PyPDF2, copy the following commands in the command prompt and run:
 `pip install PyPDF2`
