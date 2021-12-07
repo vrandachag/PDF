@@ -29,11 +29,11 @@ There are many libraries available freely for working with PDFs:
 
 7. PyPDF2: It is a python library used for performing major tasks on PDF files such as extracting the document-specific information, merging the PDF files, splitting the pages of a PDF file, adding watermarks to a file, encrypting and decrypting the PDF files, etc. We will use the PyPDF2 library in this tutorial. It is a pure python library so it can run on any platform without any platform-related dependencies on any external libraries.
 
-# Getting Started with PyPDF2 Library
-## Installation
-To install PyPDF2, copy the following commands in the command prompt and run: </br>
-`pip install PyPDF2`
->The install is quite quick as PyPDF2 does not have any dependencies. You will likely spend as much time downloading the package as you will installing it.
+# Getting Started with PyMuPDF Library
+## Installing the required packages
+You copy the following commands in the command prompt and run: </br>
+`pip install fitz
+pip install PyMuPDF`
 
 
 
