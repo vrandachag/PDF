@@ -31,7 +31,7 @@ There are many libraries available freely for working with PDFs:
 
 # Getting Started with PyPDF2 Library
 ## Installation
-To install PyPDF2, copy the following commands in the command prompt and run:
+To install PyPDF2, copy the following commands in the command prompt and run: </br>
 `pip install PyPDF2`
 >The install is quite quick as PyPDF2 does not have any dependencies. You will likely spend as much time downloading the package as you will installing it.
 
